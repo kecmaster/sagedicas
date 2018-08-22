@@ -13,7 +13,7 @@
 
     Sigla da Estação + Nome do Equipamento + Parte do equipamento
 
-Nome da estação: Sigla identificadora da Instalação definida no anexo da NOE-01
+Nome**Sigla da  da estação:** Sigla identificadora da Instalação definida no anexo da NOE-01
 Nome do Equipamento: Sigla identificadora do equipamento definida na NOE-01
 Parte de Equipamento: Sigla identificadora conforme a norma ANSI ou abreviatura arbitrária (ainda nãoestá normatizado).
 Identificadores Convergentes: São os identificadores dos pontos da base de dados que apresentam variações somente na parte do equipamento para um mesmo evento do SSC.
@@ -95,5 +95,5 @@ e.	Formar tabela “de/para” (ID antigo, Nome antigo: ID novo, Nome Novo)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzQ5NzU2NF19
+eyJoaXN0b3J5IjpbOTM2Mjc5MzE3LDE2ODc0OTc1NjRdfQ==
 -->
