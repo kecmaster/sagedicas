@@ -1,4 +1,7 @@
-## Unificação de Regras de Form
+## Unificação de Regras de Formação para componentes das Bases de Dados dos Sistemas de Supervisão e Controle
+
+ 
+
 Definição de termos:
 Sistema de Supervisão e Controle (SSC): 
 Formação da identificação dos pontos:
@@ -85,5 +88,5 @@ e.	Formar tabela “de/para” (ID antigo, Nome antigo: ID novo, Nome Novo)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjA1ODY1LDQ0NTQ2NTQ1NV19
+eyJoaXN0b3J5IjpbLTE3NTMyNjY0MzgsNDQ1NDY1NDU1XX0=
 -->
