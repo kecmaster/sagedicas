@@ -15,7 +15,7 @@
 
 **Nome da  da instalação:** Abreviatura da instalação como definida no anexo da NOE-01
 
-**Nome do Equipamento**: Sigla identificadora do equipamento definida na NOE-01
+**Nome do Equipamento**: Sigla identificadora do equipamento como  definida na NOE-01
 Parte de Equipamento: Sigla identificadora conforme a norma ANSI ou abreviatura arbitrária (ainda nãoestá normatizado).
 Identificadores Convergentes: São os identificadores dos pontos da base de dados que apresentam variações somente na parte do equipamento para um mesmo evento do SSC.
 Exemplos:
@@ -96,5 +96,5 @@ e.	Formar tabela “de/para” (ID antigo, Nome antigo: ID novo, Nome Novo)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Njg5MDIwMywxNjg3NDk3NTY0XX0=
+eyJoaXN0b3J5IjpbOTg3OTA2NTM3LDE2ODc0OTc1NjRdfQ==
 -->
