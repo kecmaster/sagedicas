@@ -10,7 +10,9 @@
 **2.1 Sistema de Supervisão e Controle (SSC):** 
 
 **2.2 Formação da identificação dos pontos:**
-Nome da estação + Nome do Equipamento + Parte do equipamento
+
+    Sigla da Estação + Nome do Equipamento + Parte do equipamento
+
 Nome da estação: Sigla identificadora da Instalação definida no anexo da NOE-01
 Nome do Equipamento: Sigla identificadora do equipamento definida na NOE-01
 Parte de Equipamento: Sigla identificadora conforme a norma ANSI ou abreviatura arbitrária (ainda nãoestá normatizado).
@@ -93,6 +95,5 @@ e.	Formar tabela “de/para” (ID antigo, Nome antigo: ID novo, Nome Novo)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjIyNzcxOSwxNDM5MTQxNjY5LC0xNz
-UzMjY2NDM4LDQ0NTQ2NTQ1NV19
+eyJoaXN0b3J5IjpbMTY4NzQ5NzU2NF19
 -->
