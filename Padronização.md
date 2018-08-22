@@ -3,10 +3,13 @@
  ## Objetivos
  
 
-## ConceituaçõDefinição de termos:
+## 2. Conceituações
 
-Sistema de Supervisão e Controle (SSC): 
-Formação da identificação dos pontos:
+
+
+**2.1 Sistema de Supervisão e Controle (SSC):** 
+
+**2.2 Formação da identificação dos pontos:**
 Nome da estação + Nome do Equipamento + Parte do equipamento
 Nome da estação: Sigla identificadora da Instalação definida no anexo da NOE-01
 Nome do Equipamento: Sigla identificadora do equipamento definida na NOE-01
@@ -90,6 +93,6 @@ e.	Formar tabela “de/para” (ID antigo, Nome antigo: ID novo, Nome Novo)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Mjg4NjI1NSwxNDM5MTQxNjY5LC0xNz
+eyJoaXN0b3J5IjpbLTk4NjIyNzcxOSwxNDM5MTQxNjY5LC0xNz
 UzMjY2NDM4LDQ0NTQ2NTQ1NV19
 -->
