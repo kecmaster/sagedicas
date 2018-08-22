@@ -1,6 +1,6 @@
 # Unificação de Regras de Formação para componentes das Bases de Dados dos Sistemas de Supervisão e Controle
 
- ## Objetivos
+ ## 1. Objetivos
  
 
 ## 2. Conceituações
@@ -15,9 +15,11 @@
 
 **Nome da  da instalação:** Abreviatura da instalação como definida no anexo da NOE-01
 
-**Nome do Equipamento**: Sigla identificadora do equipamento como  definida na NOE-01
-Parte de Equipamento: Sigla identificadora conforme a norma ANSI ou abreviatura arbitrária (ainda nãoestá normatizado).
-Identificadores Convergentes: São os identificadores dos pontos da base de dados que apresentam variações somente na parte do equipamento para um mesmo evento do SSC.
+**Nome do Equipamento:** Sigla identificadora do equipamento como  definida na NOE-01
+
+**Parte de Equipamento:** Sigla identificadora conforme a norma ANSI ou abreviatura arbitrária (ainda não está normatizado).
+
+**2.3 Identificadores Convergentes:** São os identificadores dos pontos da base de dados que apresentam variações somente na parte do equipamento para um mesmo evento do SSC.
 Exemplos:
 STXX_SC6121_43LR
 STXX_SC6123_LR43
@@ -96,5 +98,5 @@ e.	Formar tabela “de/para” (ID antigo, Nome antigo: ID novo, Nome Novo)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3OTA2NTM3LDE2ODc0OTc1NjRdfQ==
+eyJoaXN0b3J5IjpbNTExODU4MTk1LDE2ODc0OTc1NjRdfQ==
 -->
